@@ -1,1 +1,3 @@
 this is sample file2
+
+git revert commit 2
